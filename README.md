@@ -38,7 +38,7 @@ I am a dedicated and passionate software developer with a Master's degree in Ele
 I am continuously exploring new technologies and methodologies in AI. Currently, I am diving deeper into reinforcement learning, deep learning, machine learning and cloud-based AI solutions on AWS.
 
 ### 📫 Get in Touch
-- **LinkedIn:** [https://www.linkedin.com/in/daniel-akanji](#)
+- **LinkedIn:** [https://www.linkedin.com/in/daniel-akanji](#https://www.linkedin.com/in/daniel-akanji)
 - **Email:** [akanjidan@gmail.com](mailto:akanjidan@gmail.com)
 
 ### 📈 GitHub Stats
