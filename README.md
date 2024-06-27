@@ -14,7 +14,7 @@ I am a dedicated and passionate software developer with a Master's degree in Ele
 ### 🔭 Projects & Contributions
 
 #### 🧠 AI & Machine Learning Projects
-- **[Custom Diplomacy Gym Environment ](#)**
+- **[Custom Diplomacy Game Gym Environment ](#)**
   - *Description:* Developed a custom implementation of a Gym environment tailored for the Diplomacy game, facilitating advanced AI research and experimentation. The project includes comprehensive testing, validation, and training of AI agents using Proximal Policy Optimization (PPO).
   - *Technologies:* Python, Gymnasium, Stable-Baselines3, Proximal Policy Optimization (PPO), Reinforcement Learning
 
@@ -42,4 +42,3 @@ I am continuously exploring new technologies and methodologies in AI. Currently,
 - **Email:** [akanjidan@gmail.com](mailto:akanjidan@gmail.com)
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akanjidane&show_icons=true&theme=radical)
