@@ -40,5 +40,6 @@ I am continuously exploring new technologies and methodologies in AI. Currently,
 ### 📫 Get in Touch
 - **LinkedIn:** [https://linkedin.com/in/daniel-akanji](#)
 - **Email:** [akanjidan@gmail.com](mailto:akanjidan@gmail.com)
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 ### 📈 GitHub Stats
