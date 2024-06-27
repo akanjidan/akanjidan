@@ -21,7 +21,12 @@ I am a dedicated and passionate software developer with a Master's degree in Ele
 
 - **[GWO-ANN: Grey Wolf Optimizer with Artificial Neural Network](#)**
   - *Description:* Developed an advanced predictive modeling system for predicting amount of waste or no of trucks from a constrcution site with Grey Wolf Optimizer by integrating the Grey Wolf Optimizer (GWO) with an Artificial Neural Network (ANN). This project involves preprocessing and analyzing data, training an ANN model, and optimizing its parameters using GWO for enhanced performance.
-  - *Technologies:* Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Grey Wolf Optimizer (GWO), Artificial Neural Network (ANN)
+  - *Technologies:* Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Grey Wolf Optimizer (GWO), Artificial Neural Network (ANN).
+
+
+- **[Social Media Post Performace and Prediction Analysis](#)**
+  - *Description:* Developed a social media system for analyzing and optimizing socila media post engagement metrics using machine learning and generative AI techniques.
+  -  *Technologies:* Python, Pandas, Openai, TyperAPI, LLM model.
 
 #### ⚙️ Engineering & Scientific Projects
 - **[Audio Signal Processing with SDM](#)**
