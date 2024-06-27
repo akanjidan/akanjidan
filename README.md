@@ -43,5 +43,4 @@ I am continuously exploring new technologies and methodologies in AI. Currently,
 
 
 ### 📈 GitHub Stats
-![linkedin](https://linkedin.com/in/daniel-akanji?style=for-the-badge&logo=linkedin&logoColor=#00C300)
 
