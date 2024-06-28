@@ -19,7 +19,7 @@ I am a dedicated and passionate software developer with a Master's degree in Ele
   - *Technologies:* Python, Gymnasium, Stable-Baselines3, Proximal Policy Optimization (PPO), Reinforcement Learning
 
 
-- **[GWO-ANN: Grey Wolf Optimizer with Artificial Neural Network](#))**
+- **[GWO-ANN: Grey Wolf Optimizer with Artificial Neural Network](https://github.com/akanjidan/Grey-Wolf-Optimizer-with-Artificial-Neural-Network)**
   - *Description:* Developed an advanced predictive modeling system for predicting amount of waste or no of trucks from a constrcution site with Grey Wolf Optimizer by integrating the Grey Wolf Optimizer (GWO) with an Artificial Neural Network (ANN). This project involves preprocessing and analyzing data, training an ANN model, and optimizing its parameters using GWO for enhanced performance.
   - *Technologies:* Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Grey Wolf Optimizer (GWO), Artificial Neural Network (ANN).
 
