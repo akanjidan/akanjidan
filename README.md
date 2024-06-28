@@ -29,7 +29,7 @@ I am a dedicated and passionate software developer with a Master's degree in Ele
   -  *Technologies:* Python, Pandas, Openai, TyperAPI, LLM model.
 
 #### ⚙️ Engineering & Scientific Projects
-- **[Audio Signal Processing with SDM](#)**
+- **[Audio Signal Processing with SDM](https://github.com/akanjidan/Audio-Signal-Processing-with-SDM)**
   - *Description:* This project performs advanced audio signal processing using a combination of Python and MATLAB. It focuses on Direction of Arrival (DOA) estimation and visualization using the Spherical Deconvolution Method (SDM).
   - *Technologies:* Python 3.7, MATLAB with matlab.engine API, Python libraries: numpy, matplotlib, scipy, csv 
 
