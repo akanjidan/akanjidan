@@ -33,7 +33,7 @@ I am a dedicated and passionate software developer with a Master's degree in Ele
   - *Description:* This project performs advanced audio signal processing using a combination of Python and MATLAB. It focuses on Direction of Arrival (DOA) estimation and visualization using the Spherical Deconvolution Method (SDM).
   - *Technologies:* Python 3.7, MATLAB with matlab.engine API, Python libraries: numpy, matplotlib, scipy, csv 
 
-- **[ROBOTIC SYSTEM DESIGN FOR TELESURGERY SURGERY](#)**
+- **[ROBOTIC SYSTEM DESIGN FOR TELESURGERY SURGERY](https://github.com/akanjidan/ROBOTIC-SYSTEM-DESIGN-FOR-TELESURGERY-SURGERY)**
   - *Description:*  a 4DoF robotic arm was constructed after which a kinematic model for the same was built using the Forward kinematics method. Furthermore, a 3D multi-body design was created in MATLAB Simulink which will serve as the master robot to the physical robot (slave) on the other end. Also, the MATLAB UI/UX graphic interface (app designer) was used to program and design the surgeon’s telesurgery console which comprises two live stream video interfaces, the patient’s vital interface, and the robotic arm control interface. One of the video interface outputs feeds from the general surgical area view above the patient while the other outputs feed from the camera attached to the robotic arm. The patient vitals interface streams live data of the patient blood pressure, heart rate, ECG, and EEG with the aid of a chart just as it is obtainable in a standard operating room. The robotic control side allows the surgeon to control the movement of each joint of the arm in order to place the end effector in any part of the surgical area.
   - *Technologies:* MATLAB, MATLAB app designer, forward Kinematics, MATLAB Simulink.
 
